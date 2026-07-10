@@ -19,7 +19,7 @@ These are the main features and settings found in the current **configuration.ni
 
 ## Installation
 **⚠️ Warning:** Do not blindly copy these settings. Recommended to review the settings to ensure compatibility. It is assumed that you know what you are doing before you use the file.
-# To apply NixOS settings:
+### To apply NixOS settings:
 1. Clone the repo
 ```bash
 git clone https://github.com/floweysensie/My-Dotfiles-and-System-Configurations.git
