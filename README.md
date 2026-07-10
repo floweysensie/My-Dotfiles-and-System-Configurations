@@ -1,5 +1,5 @@
 ## My Dotfiles and System Configurations
-Hello to my repo that have dotfiles. currently the repo focuses on **Nixos**, and It can be expanded to include other systems and tools.
+Hello to my repository which contains my dotfiles. Currently the repo focuses on **Nixos**, and It can be expanded to include other systems and tools.
 
 ### Repository Structure
 ```
@@ -11,7 +11,7 @@ Hello to my repo that have dotfiles. currently the repo focuses on **Nixos**, an
 
 ### NixOS Config Highlights
 These are the main features and settings found in the current **configuration.nix**.
-**DE**: *KDE Plasma 6* via *SDDM*
+**Desktop Environment**: *KDE Plasma 6* via *SDDM*
 **Sound and Graphics**: Activated using *PipeWire*, with full support for *intel* graphics drivers (Intel VAAPI/Media Drivers) and support for 32-bit game packages.
 **Dev tool**: GCC, Make, QtCreator, SDL3, Git
 **Games and Compatibility**: Wine, Bottles, Steam-run, Appimage-run
